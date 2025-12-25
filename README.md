@@ -57,7 +57,6 @@ Start the Client
   
 # Features
 
-### Authenticaton
 
 
   
